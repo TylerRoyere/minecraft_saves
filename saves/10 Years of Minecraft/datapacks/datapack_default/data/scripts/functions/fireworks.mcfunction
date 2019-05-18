@@ -1,0 +1,1 @@
+give @p minecraft:firework_rocket{Fireworks:{Flight:1b,Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16776960],FadeColors:[I;16765209]},{Type:2,Flicker:1b,Trail:1b,Colors:[I;16711680],FadeColors:[I;16771304]}]}} 64
