@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-05-26 18:41:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-03-16 01:13:42 -0400"
@@ -212,6 +218,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-05-18 19:59:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-05-26 18:41:17 -0400"
     },
     "done": true
   },
@@ -662,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-05-26 18:38:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2019-05-16 22:00:42 -0400"
@@ -695,6 +713,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-05-18 14:40:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-05-26 18:41:17 -0400"
     },
     "done": true
   },
@@ -1153,6 +1177,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-05-26 00:08:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-05-26 18:38:40 -0400"
     },
     "done": true
   },
@@ -1923,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-05-26 18:41:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-05-16 22:11:49 -0400"
@@ -1950,6 +1986,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-03-16 00:33:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-05-26 18:41:17 -0400"
     },
     "done": true
   },
