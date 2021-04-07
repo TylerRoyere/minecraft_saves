@@ -1,0 +1,48 @@
+1 Solar Panel:
+
+Coal Dust: 3
+Glass: 3
+Tin: 4
+Redstone: 6
+Rubber: 18
+Copper: 9
+Refined Iron: 10 (machine block + 2 circuits)
+Cobble: 8
+
+
+7 Solar Panels:
+Coal Dust: 3*7 = 21
+Glass: 3*7 = 21
+Tin: 4*7 = 28
+Redstone: 6*7 = 56
+Rubber: 18*7 = 126 
+Copper: 9*7 = 63
+Refined Iron: 10*7 = 56
+Cobble: 8*7 = 56
+
+8 Solar Panels:
+
+Coal Dust: 3*8 = 24
+Glass: 3*8 = 24
+Tin: 4*8 = 32
+Redstone: 6*8 = 48
+Rubber: 18*8 = 144 
+Copper: 9*8 = 72
+Refined Iron: 10*8 = 80
+Cobble: 8*8 = 64
+
+---------------------------------------------------------------------------r
+
+Steps (for 1):
+- Sand -> Glass (3)
+- Coal -> Coal Dust (3)
+- Iron -> Refined Iron
+1. Copper Wires (13 for 2 Circuits + RE-Battery) -> This makes 6 wires
+2. Electric Circuits (2)
+3. Re-battery (1)
+4. Furnace (1)
+5. Machine Block (1)
+6. Generator (1)
+7. Solar Panel (1) -- DONE!!
+
+

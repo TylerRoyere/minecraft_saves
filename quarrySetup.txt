@@ -1,0 +1,94 @@
+Quarry Needs:
+
+Left(power source) -> Right (transporter)
+1x MFE (Batbox MK2) -- 128EU/t per side, but need lv transformer
+
+1x IC2 EV Consumer 
+Total Resources:
+- 5 gold
+- 38 lapis
+- 102 redstone
+- 10 diamond
+- 96 rubber
+- 54 copper (9 dust)
+- 32 refined iron
+- 16 coal dust 
+- 6 tin (3 dust)
+- 3 bronze
+- 2 glowstone dust
+
+
+-- 4 gold, 
+-- 6 lapatronic crystal (36 lapis, 6 diamonds, 72 redstone, 72 rubber, 36 copper, 12 refined iron) 
+---- 6 lapis lazuli
+---- 1*6 energy crystal (x6 = 48 redstone + 6 diamonds)
+------ 8 redstone + 1 diamond
+---- 2*6 elec circuits (x12 = 72 rubber + 36 copper + 24 redstone + 12 refined iron)
+------ 6 copper wire = 6 rubber + 3 copper
+------ 2 redstone
+------ 1 refined iron
+-- MFE:
+---- 8 rubber, 1 gold, 4 diamonds, 32 redstone, 8 refined iron
+-- 1 Advanced machine block = 11 refined iron + 16 coal dust + 3 tin + 3 bronze
+---- 1 machine block = 8 refined iron
+---- 2 carbon plates (16 coal dust - double instr below)
+------ compress raw carbon mesh = 2 raw carbon fiber-like stick (4-like craft table*2 = 8 coal dust)
+---- 2 Advanced alloys (3 refined iron + 3 tin + 3 bronze)
+------ compress mixed metal ingot = 3 refined iron + 3 tin + 3 bronze (produces 2 so only do once)
+-------- bronze = 3 copper dust + 1 tin dust (x3 = 9 copper dust + 3 tin dust)
+-- 1 adv circuit: = 6 rubber, 3 copper, 6 redstone + 1 refined iron + 2 glowstone dust + 2 lapis
+---- 1 elec circuit (see above = x1 = 6 rubber + 3 copper + 2 redstone + 1 refined iron)
+---- 4 redstone + 2 glowstone dust + 2 lapis
+
+
+1x Energy Bridge = 4 gold + 2 redstone + 2 glass + 1 diamond
+
+
+1x RF Producer = 4 gold, 15 cobble, 1 glass, 2 wood (3 planks, 8 sticks), 1 iron, 1 redstone
+- RF Consumer -> converts by putting in crafting table by self
+-- 4 gold
+-- stirling engine
+---- 3 cobble
+---- 1 glass
+---- 1 piston
+------ 3 planks
+------ 4 cobble
+------ 1 iron
+------ 1 redstone
+---- 2 stone gears = 2x (4 cobble + 4 sticks) = 8 cobble + 8 sticks
+
+1x Emerald Kenesis Pipe = 1 redstone + 1 glass + 2 emeralds 
+-- 1 redstone
+-- emerald transport pipe = 1 glass + 2 emeralds (makes 8)
+
+2x Power Teleport Pipe (at source & quarry) 2x = (craft diamond transport pipe once, transporter twice)
+Total = 1 glass + 8 diamonds + 8 gold + 8 iron + 8 cobble + 8 sticks + 2 redstone
+-- 1 redstone
+-- 1 item teleport pipe = (makes 4 so only need to do once) 1 glass + 8 diamonds + 8 gold + 8 iron + 8 cobble + 8 sticks
+---- 2 diamond gears + 1 glass = 1 glass + 8 diamonds + 8 gold + 8 iron + 8 cobble + 8 sticks
+------ 2x(4 diamonds + 1 gold gears) = 8 diamonds + 8 gold + 8 iron + 8 cobble + 8 sticks
+-------- 2x(4 gold + 1 iron gear) = 8 gold + 8 iron + 8 cobble + 8 sticks
+---------- 2x(4 iron + 1 stone gear) = 8 iron + 8 cobble + 8 sticks
+------------ 2x(4 cobble + 1 wooden gear) = 8 cobble + 8 sticks
+-------------- 2x(4 sticks) = 8 sticks
+
+1x Diamond Kenesis Pipe (into quarry) = 1 redstone + 2 diamonds + 1 glass
+-- 1 redstone
+-- diamond transport pipe = 1 glass + 2 diamonds
+
+pneumatic tubes into many chests
+
+2x world anchor (at source and destination) = 
+Total: 8 gold, 4 diamonds, 4 obsidian, 2 ender pearls
+-- 4 gold
+-- 2 diamonds
+-- 2 obsidian
+- 1 ender pearl
+
+(optional- create ender pearl generator to fuel anchor)
+
+Suggestions:
+- Do it over water to get water to turn lava into obsidian
+- use filter to turn cobble & dirt into diamonds
+
+Resources:

@@ -2,7 +2,8 @@
 
 REM '%~dp0' returns the drive and path to this file
 SET minecraft_saves_repo=%~dp0
-echo %minecraft_saves_repo%
-cd %minecraft_saves_repo%
-git add -A
-git commit -m "Auto commit %time% %date%"
+
+
+	cd %minecraft_saves_repo%
+	git add -A
+	git commit -m "Auto commit %time% %date%"

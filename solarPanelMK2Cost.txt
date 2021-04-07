@@ -1,0 +1,68 @@
+1 Solar Panel:
+
+Coal Dust: 3
+Glass: 3
+Tin: 4
+Redstone: 6
+Rubber: 18
+Copper: 9
+Refined Iron: 10 (machine block + 2 circuits)
+Cobble: 8
+
+8 Solar Panels:
+
+Coal Dust: 3*8 = 24
+Glass: 3*8 = 24
+Tin: 4*8 = 32
+Redstone: 6*8 = 48
+Rubber: 18*8 = 144 
+Copper: 9*8 = 72
+Refined Iron: 10*8 = 80
+Cobble: 8*8 = 64
+
+1 MK2 Solar Panel: 8 solar panels + 1 LV Transformer
+Coal Dust: 24
+Glass: 24
+Tin: 32
+Redstone: 48
+Rubber: 144 
+Copper: 75 (72 + 3 for Transformer)
+Refined Iron: 80 (machine block + elec circuit)
+Cobble: 64
+Wood: 1 (4 planks for Transformer)
+
+
+---------------------------------------------------------------------------r
+
+Steps (for 1):
+- Sand -> Glass (24)
+- Coal -> Coal Dust (24)
+- Iron -> Refined Iron -- eventually add filter on main pathways to double back & refine every fourth iron
+1. wood -> planks - craft table 1
+2. Copper Wires (104 for 2*8 Circuits + 8 RE-Battery) -> store them in chest 
+-> This makes 6 wires each (104 % 6 = 2, but none left over (2 used in Transformer) 
+3. Electric Circuits (16)- wire, redstone, & refined iron (0 + 2)
+4. Re-battery (8) - wire, tin, & redstone (0 + 2)
+5. Furnace (8) - 0
+6. Machine Block (8) - 0
+7. Generator (8) - machine block + RE-Battery + furnace (4 + 5 + 6)
+8. Solar Panel (8) - glass + coal + circuit + generator (0 + 3 + 7)
+9. Transformer - Planks + wire + copper ingot (0 + 2 + 0)
+10. MK2 (1) - Solar Panels + LV Transformer (8 + 9)
+
+
+--------------------------------------------------------------------------------
+
+7 MK2's (56 mk1):
+- 112 circuits, 56 generators, 7 LV transformers
+-- 672 wires, 56 (batteries,machine block, furnance)
+Coal Dust: 168 - 2 stacks & 40
+Glass: 168 - 2 stacks & 40
+Tin: 224 - 3 stacks & 20
+Redstone: 336 - 5.25 stacks
+Rubber: 1,008 -- 15.75 stacks
+Copper: 525 (72 + 3 for Transformer) -- 8 stacks & 13
+Refined Iron: 480 - 7.5 stacks
+Cobble: 448 - 7 stacks
+Wood: 7 (4 planks for Transformer)
+

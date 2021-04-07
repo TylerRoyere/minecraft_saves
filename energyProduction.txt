@@ -1,0 +1,20 @@
+Solar Panel Energy Production (EU/t):
+
+MK1 (Regular): 1
+MK2 (Low): 8
+
+----- Bat Box only accepts 32EU/t on each side
+MK3 (Medium): 64
+
+----- MFE accepts 128EU/t (=15 Batbox storage = 600,000) 
+-> 2 MK3(medium solar) for each side
+
+MK4 (High): 512
+
+----- MFSU Accepts 512 EU/t on each side
+
+
+Quarry:
+22 EU/t to run at full speed
+With energy link, need 80EU/t
+
